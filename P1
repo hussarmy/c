@@ -1,0 +1,16 @@
+mohammed sAMI
+#include <stdio.h>
+
+int main() {
+int a;
+int b;
+int c;
+
+    printf("enter first value\n");
+    scanf(  "%d", &a    );
+printf("enter second value\n");
+scanf(  "%d",&b   );
+c=a+b;
+printf("sum of both value %d",c);
+    return 0;
+}
