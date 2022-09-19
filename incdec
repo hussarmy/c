@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main () {
+    //Increment
+    int a=21;
+    printf("Value of before incerement %d",a);
+    printf("\n");
+    a++;
+    printf("Value after increment %d" ,a);
+    printf("\n");
+     //Decrement
+    int b=12;
+    printf("Value of before decerement %d",b);
+    printf("\n");
+    b--;
+    printf("Value after increment %d",b);
+      return 0;
+    
+    
+    
+}
